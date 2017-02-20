@@ -1,7 +1,7 @@
 # Site settings
-title: IlmuOne Test web, theme Jeky New Age, the start Bootstrap themplate build for jekyll
-email:
-description: A jekyll template for landing pages, portfolio and blogging
+title: IlmuOne Data
+email: contact@ilmuonedata.com
+description: 
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://adanamanya.github.io" # the base hostname & protocol for your site
